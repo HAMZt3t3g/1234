@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Festival della Cultura Maghrebina",
+      "excerpt": "Una giornata dedicata alla celebrazione della ricca cultura del Maghreb con musica, cibo e arte",
+      "content": "Unisciti a noi per una giornata straordinaria dedicata alla celebrazione della cultura maghrebina. Il festival includerà esibizioni musicali dal vivo, degustazioni di piatti tradizionali, mostre d'arte e workshop culturali. Un'occasione unica per immergersi nelle tradizioni e nei sapori del Maghreb.",
+      "date": "2025-04-15",
+      "time": "10:00",
+      "location": "Piazza Duomo, Milano",
+      "imageUrl": "https://images.pexels.com/photos/2774556/pexels-photo-2774556.jpeg",
+      "category": "Cultura",
+      "organizer": "Associazione MaghrebItalia"
+    },
+    {
+      "id": "2",
+      "title": "Workshop di Cucina Tradizionale",
+      "excerpt": "Impara a preparare i piatti più iconici della cucina maghrebina con chef esperti",
+      "content": "Un workshop pratico dove potrai imparare a preparare piatti tradizionali del Maghreb. I nostri chef esperti ti guideranno passo dopo passo nella preparazione di couscous, tajine e altre specialità. Alla fine del workshop, potrai degustare i piatti preparati in compagnia degli altri partecipanti.",
+      "date": "2025-04-20",
+      "time": "15:30",
+      "location": "Scuola di Cucina Mediterranean, Via Roma 123, Torino",
+      "imageUrl": "https://images.pexels.com/photos/5638268/pexels-photo-5638268.jpeg",
+      "category": "Gastronomia",
+      "organizer": "Chef Ahmed Benali"
+    }
+  ]
+}

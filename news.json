@@ -1,0 +1,34 @@
+{
+  "news": [
+    {
+      "id": "1",
+      "title": "Nuovo centro culturale italo-maghrebino apre a Milano",
+      "excerpt": "Un innovativo spazio di incontro per promuovere lo scambio culturale tra Italia e Maghreb",
+      "content": "Il nuovo centro culturale, situato nel cuore di Milano, offrirà spazi per eventi, corsi di lingua, mostre d'arte e attività culturali. L'inaugurazione è prevista per il prossimo mese.",
+      "date": "2025-03-15T14:30:00",
+      "imageUrl": "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg",
+      "category": "Cultura",
+      "author": "Marco Rossi"
+    },
+    {
+      "id": "2",
+      "title": "Successo per il festival della cucina mediterranea",
+      "excerpt": "Grande partecipazione all'evento che ha unito le tradizioni culinarie italiane e maghrebine",
+      "content": "Oltre 5000 visitatori hanno partecipato al festival, degustando piatti tradizionali e assistendo a showcooking di chef italiani e maghrebini.",
+      "date": "2025-03-14T12:15:00",
+      "imageUrl": "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg",
+      "category": "Eventi",
+      "author": "Sofia Bianchi"
+    },
+    {
+      "id": "3",
+      "title": "Nuove opportunità di scambio per giovani studenti",
+      "excerpt": "Lanciato il programma di scambio culturale per studenti tra Italia e paesi del Maghreb",
+      "content": "Il programma permetterà a 100 studenti di partecipare a scambi culturali della durata di sei mesi, con borse di studio complete.",
+      "date": "2025-03-14T10:00:00",
+      "imageUrl": "https://images.pexels.com/photos/1205651/pexels-photo-1205651.jpeg",
+      "category": "Istruzione",
+      "author": "Ahmed Benali"
+    }
+  ]
+}
